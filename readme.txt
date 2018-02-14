@@ -1,7 +1,6 @@
 Welcome to Git
 created a sample file on git Collabration
 Adding new line 
-<<<<<<< HEAD
 checking revert after commit
 another line added after commit
 fdsfs
