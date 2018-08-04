@@ -4,3 +4,4 @@ Adding new line
 checking revert after commit
 another line added after commit
 to check on git hub after added line through git bash
+abc
